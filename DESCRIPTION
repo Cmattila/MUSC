@@ -7,7 +7,7 @@ Authors@R: c(
     person("Brian", "Neelon", role = "aut"),
     person("Souvik", "Seal", role = "aut")
     )
-Description: Bayesian variable selection for regression of negative binomial (overdispersed) spatially indexed count data with and without feature grouping using horseshoe, spike and slab, or when grouping the multi-level group extensions of horseshoe or spike and slab. 
+Description: Bayesian variable selection for regression modelling of negative binomial (overdispersed) spatially indexed count data with and without feature grouping using horseshoe, spike and slab, or when grouping the multi-level group extensions of horseshoe or spike and slab. 
 License: GPL-2
 Encoding: UTF-8
 Imports: 
